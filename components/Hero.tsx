@@ -12,7 +12,7 @@ const Hero: React.FC = () => {
         <h1 
           className="glitch-text font-display font-black text-white tracking-tighter leading-none"
           style={{ fontSize: 'clamp(3rem, 15vw, 9rem)' }}
-          data-text="GARUDA"
+          data-text="FLEXER"
         >
           GARUDA
         </h1>
