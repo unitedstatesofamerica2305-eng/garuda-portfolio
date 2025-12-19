@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef } from 'react';
+React, { useState, useEffect, useRef } from 'react';
 import { TerminalLine } from '../types';
 
 const Terminal: React.FC = () => {
@@ -7,7 +7,7 @@ const Terminal: React.FC = () => {
   const bottomRef = useRef<HTMLDivElement>(null);
 
   const initialLines: TerminalLine[] = [
-    { text: "Initializing GARUDA protocol v2.4...", type: 'system' },
+    { text: "Initializing FLEXEGARUDAl v2.4...", type: 'system' },
     { text: "Scanning vulnerabilities...", type: 'system' },
     { text: "Fetching portfolio data...", type: 'system' },
     { text: "Access Granted.", type: 'system' },
@@ -44,10 +44,10 @@ const Terminal: React.FC = () => {
         ];
         break;
       case 'about':
-        response = [{ text: "GARUDA // Ethical Hacker & Full Stack Dev based in Cyberspace.", type: 'output' }];
+        response = [{ text: "FLEXER // Ethical Hacker & Full Stack Dev based in Cyberspace.", type: 'output' }];
         break;
       case 'contact':
-        response = [{ text: "Email: garuda@secure-net.dev | Encrypted Line: 404-NOT-FOUND", type: 'output' }];
+        response = [{ text: "Email: SOON | Encrypted Line: 404-NOT-FOUND", type: 'output' }];
         break;
       case 'clear':
         setLines([]);
@@ -82,7 +82,7 @@ const Terminal: React.FC = () => {
             <div className="w-3 h-3 rounded-full bg-red-500"></div>
             <div className="w-3 h-3 rounded-full bg-yellow-500"></div>
             <div className="w-3 h-3 rounded-full bg-green-500"></div>
-            <span className="ml-4 text-gray-500 text-xs">garuda@portfolio:~</span>
+            <span className="ml-4 text-gray-500 textext-xlio/span>
           </div>
 
           {/* Terminal Body */}
