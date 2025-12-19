@@ -47,7 +47,7 @@ const Navbar: React.FC = () => {
       <div className="container mx-auto px-4 md:px-6 flex justify-between items-center">
         {/* Logo */}
         <div className={`text-xl md:text-2xl font-bold font-display tracking-widest text-hacker-red transition-opacity duration-300 ${scrolled ? 'opacity-100' : 'opacity-80'}`}>
-           GARUDA<span className="animate-pulse">_</span>
+           FLEXER<span className="animate-pulse">_</span>
         </div>
 
         {/* Desktop Menu */}
