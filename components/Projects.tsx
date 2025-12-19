@@ -7,14 +7,14 @@ const projectData: Project[] = [
     title: "AADHAR TO FAMILY",
     description: "Fetch detail of family member by anybody aadhar number.",
     tags: ["ENCRYPTED", "FREE TO USE", "UNETHICAL"],
-    link: "https://aadhar-info-by-vivek.netlify.app/"
+    link: "#"
   },
   {
     id: 2,
     title: "NUMBER INFO",
     description: "get some detail of number (DETAIL MAY CONTAIN WRONG INFORMATION IF YOU GET DM ME )",
     tags: ["ENCRYPTED", "FREE TO USE", "UNETHICAL"],
-    link: "https://num-info-by-v.netlify.app/"
+    link: "https://num-info-by-soulflex.vercel.app/"
   },
   {
     id: 3,
