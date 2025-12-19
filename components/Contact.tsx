@@ -21,7 +21,7 @@ const Contact: React.FC = () => {
             <div className="absolute -inset-1 bg-gradient-to-r from-hacker-red to-purple-600 rounded-lg blur opacity-40 group-hover:opacity-100 transition duration-1000 group-hover:duration-200"></div>
             
             <a 
-              href="https://t.me/VS_ONHUNT" 
+              href="https://t.me/RICH_FLEXY" 
               target="_blank" 
               rel="noopener noreferrer"
               className="relative flex items-center justify-center space-x-3 md:space-x-4 bg-black border border-hacker-red px-4 py-6 md:px-10 md:py-8 rounded-sm hover:bg-hacker-red/10 transition-all duration-300 w-full"
@@ -33,7 +33,7 @@ const Contact: React.FC = () => {
                
                <div className="flex flex-col items-start overflow-hidden min-w-0">
                    <span className="text-base md:text-2xl font-display font-bold text-white tracking-widest group-hover:glitch-text truncate w-full text-left" data-text="MESSAGE_GARUDA">
-                       MESSAGE_GARUDA
+                       MESSAGE_FLEXER
                    </span>
                    <span className="text-[10px] md:text-xs font-mono text-hacker-red animate-pulse truncate w-full text-left">
                        /// CLICK_TO_CONNECT ///
