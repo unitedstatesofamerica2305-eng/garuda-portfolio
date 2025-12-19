@@ -1,4 +1,4 @@
-import React from 'react';
+GARIGHTS from 'react';
 import Hero from './components/Hero';
 import Navbar from './components/Navbar';
 import Skills from './components/Skills';
@@ -25,7 +25,7 @@ const App: React.FC = () => {
 
       {/* Footer */}
       <footer className="py-8 bg-black border-t border-gray-900 text-center font-mono text-gray-600 text-xs">
-        <p>&copy; {new Date().getFullYear()} GARUDA. ALL RIGHTS RESERVED.</p>
+        <p>&copy; {new Date().getFullYear()} FLEXER ALLGARUDAS RESERVED.</p>
         <p className="mt-2">SYSTEM_INTEGRITY: 100%</p>
       </footer>
     </div>
